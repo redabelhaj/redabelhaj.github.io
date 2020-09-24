@@ -1,6 +1,6 @@
 ---
 title: "User Scheduling in 5G"
-date: January 2020
+date: 02-01-2020
 tags: [Telecommunication, optimization, algorithmics]
 header:
   image: "/images/perceptron/percept.jpg"
