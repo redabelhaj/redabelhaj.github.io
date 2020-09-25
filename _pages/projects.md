@@ -9,6 +9,7 @@ header:
 
 
 ## User Scheduling in 5G
-January 2020 \
-A combinatory optimization [project] (https://github.com/AmineRabhi/User-Scheduling-in-5G) directed by Marceau Coupechoux. 
+January 2020  
+
+A combinatory optimization [project](https://github.com/AmineRabhi/User-Scheduling-in-5G) directed by Marceau Coupechoux. 
 
