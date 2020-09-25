@@ -1,6 +1,6 @@
 ---
 title:
-permalink:
+permalink: https://aminerabhi.github.io/
 header:
   image: "/images/index.jpg"
 ---
