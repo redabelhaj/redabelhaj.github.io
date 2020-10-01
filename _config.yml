@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Reda Rabhi"
+title                    : "Reda Belhaj-Soullami"
 title_separator          : "-"
-name                     : "Amine Rabhi"
-description              : "Professional website"
+name                     : "Reda Belhaj-Soullami"
+description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amine Rabhi"
-  avatar           : "/images/profile2.png.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Professional Website"
+  name             : "Reda Belhaj-Soullami"
+  avatar           : #"#/images/profile2.png.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : #"Professional Website"
   location         : "Paris, France"
-  email            : "mohamed.rabhi@polytechnique.edu"
+  email            : "reda.belhaj-soullami@polytechnique.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AmineRabhi"
+  github           : "redabelhaj"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "amine-rabhi-1757ab130" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "reda-belhaj-soullami-2323b6180" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
