@@ -8,6 +8,10 @@ header:
 ---
 
 
+### Multi-radar tracking optimization for collaborative combat
+June - August 2020
+A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric Barbaresco made during my internship at [NukkAI](http://nukk.ai). I was the main contributor on the reinforcement learning part. To be published at the [CAID](https://en.european-cyber-week.eu/caid) conference. Paper will be available soon.
+
 ### EfficientNet for object detection
 June 2020  
 A computer vision [project](https://github.com/redabelhaj/efficientnet) made with Mohamed Amine Rabhi based on Tan & Le's [paper](https://arxiv.org/abs/1905.11946).
