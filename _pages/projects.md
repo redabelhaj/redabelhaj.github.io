@@ -9,15 +9,16 @@ header:
 
 ## Internship work
 
-### Multi-radar tracking optimization for collaborative combat
-June - August 2020
+### Multi-radar tracking optimization for collaborative combat  
+June 2020 - August 2020  
 A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric Barbaresco made during my internship at [NukkAI](http://nukk.ai). I was the main contributor on the reinforcement learning part. To be published at the [CAID](https://en.european-cyber-week.eu/caid) conference. Paper will be available soon.
 
 ## Academic projects at Ecole polytechnique
 
-### Reinforcement learning for multi-player Snake (in progress)
-September 2020 
+### Reinforcement learning for multi-player Snake (in progress)  
+September 2020 - Present  
 The goal is to design an multi-agent RL algorithm for the game of Snake. 
+
 
 ### EfficientNet for object detection
 June 2020  
