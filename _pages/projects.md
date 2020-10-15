@@ -15,9 +15,9 @@ A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric
 
 ## Academic projects at Ecole polytechnique
 
-### Reinforcement learning for multi-player Snake (in progress)  
+### Multi-agent Reinforcement learning for multi-player Snake (in progress)  
 September 2020 - Present  
-The goal is to design an multi-agent RL algorithm for the game of Snake. 
+The goal is to design a multi-agent Reinforcement learning algorithm for the game of Snake. 
 
 
 ### EfficientNet for object detection
