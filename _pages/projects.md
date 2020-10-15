@@ -15,6 +15,10 @@ A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric
 
 ## Academic projects at Ecole polytechnique
 
+### Reinforcement learning for multi-player Snake (in progress)
+September 2020 - Present
+The goal is to design an multi-agent RL algorithm for the game of Snake. 
+
 ### EfficientNet for object detection
 June 2020  
 A computer vision project made with Mohamed Amine Rabhi based on Tan & Le's [paper](https://arxiv.org/abs/1905.11946). Link to the GitHub [repo](https://github.com/redabelhaj/efficientnet)
