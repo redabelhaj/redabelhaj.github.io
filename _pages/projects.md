@@ -11,7 +11,7 @@ header:
 
 ### Multi-radar tracking optimization for collaborative combat  
 June 2020 - August 2020  
-A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric Barbaresco made during my internship at [NukkAI](http://nukk.ai). I was the main contributor on the reinforcement learning part. To be published at the [CAID](https://en.european-cyber-week.eu/caid) conference. Paper will be available soon.
+A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric Barbaresco made during my internship at [NukkAI](http://nukk.ai). I was the main contributor on the reinforcement learning part. To be published at the [CAID](https://en.european-cyber-week.eu/caid) conference. [Paper](https://hal.archives-ouvertes.fr/hal-02971759)
 
 ## Academic projects at Ecole polytechnique
 
