@@ -25,7 +25,7 @@ November 2020
 
 Machine Learning 1 project - Course [page](https://moodle.polytechnique.fr/course/view.php?id=9331). 
 The goal was to find a ML algorithm to predict the number of retweets of Covid-19 related tweets.
-Report and code will be soon available on my GitHub page.
+Report and code on my GitHub [repo](https://github.com/redabelhaj/Retweet-Prediction-Covid19) 
 
 ### Reinforcement learning for the game of Snake
 October 2020 - December 2020
