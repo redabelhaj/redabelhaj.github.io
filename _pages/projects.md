@@ -11,20 +11,20 @@ header:
 
 ### Multi-radar tracking optimization for collaborative combat
 June - August 2020
-A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric Barbaresco made during my internship at [NukkAI](http://nukk.ai). I was the main contributor on the reinforcement learning part. To be published at the [CAID](https://en.european-cyber-week.eu/caid) conference. [Preprint](https://arxiv.org/abs/2010.11733)
+A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric Barbaresco made during my internship at [NukkAI](http://nukk.ai). I was the main contributor on the reinforcement learning part. Published at the [CAID](https://en.european-cyber-week.eu/caid) conference. [Preprint](https://arxiv.org/abs/2010.11733)
 
 ## Academic projects at Ecole polytechnique
 
 ### Taking mobility into account in epidemiological models
 January 2021 - March 2021
 
-My next project (under the supervision of Pr. Stéphane Gaubert) will aim to study and develop epidemiological models, based on discrete-time SEIR models or on transport PDE models, taking into account the mobility dimension. We will seek to develop dynamic models valid in transitional regimes (pre-lockdown or post-lockdown). The goal is to "explain" the spatial philogenesis of the epidemic. 
+My next project (under the supervision of Pr. Stéphane Gaubert) will aim to study and develop epidemiological models, based on discrete-time SEIR models or on transport PDE models, taking into account the mobility dimension. We will seek to develop dynamic models valid in transitional regimes (pre-lockdown or post-lockdown). The goal is to explain the spatial philogenesis of the epidemic. 
 
 ### Retweet prediction on Covid-19 tweets
 November 2020
 
-Machine Learning 1 - Course [page](https://moodle.polytechnique.fr/course/view.php?id=9331) project.
-The goal was to find a ML algorithm to predict the number of retweets of a Covid-19 related tweet.
+Machine Learning 1 project - Course [page](https://moodle.polytechnique.fr/course/view.php?id=9331). 
+The goal was to find a ML algorithm to predict the number of retweets of Covid-19 related tweets.
 Report and code will be soon available on my GitHub page.
 
 ### Reinforcement learning for the game of Snake
@@ -32,7 +32,7 @@ October 2020 - December 2020
 
 Research initiation project (3 hours a week), under the supervision of Guillaume Quispe.
 The goal is to design a Reinforcement Learning algorithm for the game of Snake. 
-Code + project report are available [Here](https://github.com/redabelhaj/RLSnake)
+Code and project report are available [here](https://github.com/redabelhaj/RLSnake)
 
 ### EfficientNet for object detection
 June 2020  
