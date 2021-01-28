@@ -18,7 +18,7 @@ A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric
 ### Taking mobility into account in epidemiological models
 January 2021 - March 2021
 
-My next project (under the supervision of Pr. Stéphane Gaubert) will aim to study and develop epidemiological models, based on discrete-time SEIR models or on transport PDE models, taking into account the mobility dimension. We will seek to develop dynamic models valid in transitional regimes (pre-lockdown or post-lockdown). The goal is to explain the spatial philogenesis of the epidemic. 
+My next project (under the supervision of Pr. Stéphane Gaubert) will aim to study and develop epidemiological models, based on discrete-time SEIR models or on transport PDE models, taking into account the mobility dimension. We will seek to develop dynamic models valid in transitional regimes (pre-lockdown or post-lockdown). We are currently working on techniques involving tropical geometry to gain qualitative insight on mutli-compartimental SIR models.
 
 ### Retweet prediction on Covid-19 tweets
 November 2020
