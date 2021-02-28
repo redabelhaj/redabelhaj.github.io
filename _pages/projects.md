@@ -11,7 +11,7 @@ header:
 
 ### Multi-radar tracking optimization for collaborative combat
 June - August 2020
-A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric Barbaresco made during my internship at [NukkAI](http://nukk.ai). I was the main contributor on the reinforcement learning part. Published at the [CAID](https://en.european-cyber-week.eu/caid) conference. [Preprint](https://arxiv.org/abs/2010.11733)
+A joint work with Nouredine Nour, Cédric L.R. Buron, Alain Peres and Frédéric Barbaresco made during my internship at [NukkAI](http://nukk.ai). I was the main contributor on the reinforcement learning part. Accepted for the [IRS](https://www.dgon-irs.org/home/) conference. [Preprint](https://arxiv.org/abs/2010.11733)
 
 ## Academic projects at Ecole polytechnique
 
@@ -40,7 +40,7 @@ A computer vision project made with Mohamed Amine Rabhi based on Tan & Le's [pap
 
 ### Prediction of probability of default (with BNP Paribas)
 March 2020  
-A deep learning project proposed by BNP Paribas RISK (under the supervision of Michael Rabba) and made with Céline Raton, Amine Rabhi, Pierre Mordant and Michel Alhawa. [Download](https://github.com/redabelhaj/redabelhaj.github.io/raw/master/Rapport_PSC_Anglais%20(1).pdf) the project report (PDF).  
+A deep learning project proposed by BNP Paribas RISK (under the supervision of Michael Rabba) and made with Céline Raton, Amine Rabhi, Pierre Mordant and Michel Alhawa. 
 
 ### User Scheduling in 5G
 January 2020  
